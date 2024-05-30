@@ -1,0 +1,21 @@
+{
+  "title": "Транзакция",
+  "date": "Дата и время",
+  "success": "УСПЕХ",
+  "error": "ОШИБКА",
+  "amount": "Сумма",
+  "currency": "Валюта",
+  "status": "Статус",
+  "type": "Тип",
+  "clientName": "Имя клиента",
+  "clientEmail": "Электронная почта клиента",
+  "client": "Клиент",
+  "supervisor": "Супервайзер",
+  "supervisorName": "Имя супервайзера",
+  "supervisorEmail": "Электронная почта супервайзера",
+  "accountType": "Тип аккаунта",
+  "card": "Номер карты",
+  "serviceName": "Название услуги",
+  "serviceDetails": "Детали услуги",
+  "download": "Скачать"
+}

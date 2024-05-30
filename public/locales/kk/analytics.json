@@ -1,0 +1,8 @@
+{
+  "byTransactionType": "Транзакция түрі бойынша",
+  "successRate": "Сәттілік деңгейі",
+  "invoice": "Шот-фактура",
+  "payment": "Төлем",
+  "deposit": "Депозит",
+  "withdrawal": "Шығару"
+}

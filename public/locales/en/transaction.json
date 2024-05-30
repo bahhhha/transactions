@@ -1,0 +1,21 @@
+{
+  "title": "Transaction",
+  "date": "Date and time",
+  "success": "SUCCESS",
+  "error": "ERROR",
+  "amount": "Amount",
+  "currency": "Currency",
+  "status": "Status",
+  "type": "Type",
+  "clientName": "Client name",
+  "clientEmail": "Client email",
+  "client": "Client",
+  "supervisor": "Supervisor",
+  "supervisorName": "Supervisor name",
+  "supervisorEmail": "Supervisor email",
+  "accountType": "Account type",
+  "card": "Card number",
+  "serviceName": "Service name",
+  "serviceDetails": "Service details",
+  "download": "Download"
+}

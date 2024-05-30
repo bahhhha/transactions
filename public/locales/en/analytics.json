@@ -1,0 +1,8 @@
+{
+  "byTransactionType": "By Transaction Type",
+  "successRate": "Success Rate",
+  "invoice": "Invoice",
+  "payment": "Payment",
+  "deposit": "Deposit",
+  "withdrawal": "Withdrawal"
+}

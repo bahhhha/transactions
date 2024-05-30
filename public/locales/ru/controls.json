@@ -1,0 +1,19 @@
+{
+  "sort": {
+    "sortBy": "Сортировать по",
+    "date": "Дата",
+    "amount": "Сумма",
+    "category": "Категория"
+  },
+  "typeSelect": {
+    "chooseTypes": "Выберите тип",
+    "invoice": "Счет",
+    "payment": "Платеж",
+    "deposit": "Депозит",
+    "withdrawal": "Снятие",
+    "all": "Все",
+    "success": "Успешные",
+    "failed": "Неуспешные"
+  },
+  "search": "Поиск..."
+}

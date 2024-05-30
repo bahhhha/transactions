@@ -1,0 +1,8 @@
+{
+  "byTransactionType": "По типу транзакции",
+  "successRate": "Уровень успеха",
+  "invoice": "Счет-фактура",
+  "payment": "Платеж",
+  "deposit": "Депозит",
+  "withdrawal": "Снятие"
+}

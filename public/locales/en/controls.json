@@ -1,0 +1,19 @@
+{
+  "sort": {
+    "sortBy": "Sort by",
+    "date": "Date",
+    "amount": "Amount",
+    "category": "Category"
+  },
+  "typeSelect": {
+    "chooseTypes": "Choose types",
+    "invoice": "Invoice",
+    "payment": "Payment",
+    "deposit": "Deposit",
+    "withdrawal": "Withdrawal",
+    "all": "All",
+    "success": "Successful",
+    "failed": "Failed"
+  },
+  "search": "Search..."
+}

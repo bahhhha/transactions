@@ -1,0 +1,19 @@
+{
+  "sort": {
+    "sortBy": "Сортулеу",
+    "date": "Күні",
+    "amount": "Сома",
+    "category": "Санат"
+  },
+  "typeSelect": {
+    "chooseTypes": "Санат таңдаңыз",
+    "invoice": "Инвойс",
+    "payment": "Төлем",
+    "deposit": "Депозит",
+    "withdrawal": "Шығыс",
+    "all": "Барлығы",
+    "success": "Сәтті",
+    "failed": "Сәтсіз"
+  },
+  "search": "Іздеу..."
+}
